@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	pake
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - PHP automation tool with capabilities similar to make
 Name:		php-indeyets-pake
 Version:	1.7.2

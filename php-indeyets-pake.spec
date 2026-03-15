@@ -3,7 +3,7 @@
 Summary:	%{pearname} - PHP automation tool with capabilities similar to make
 Name:		php-indeyets-pake
 Version:	1.7.2
-Release:	1
+Release:	2
 License:	BSD license
 Group:		Development/Languages/PHP
 Source0:	http://pear.indeyets.ru/get/%{pearname}-%{version}.tgz
